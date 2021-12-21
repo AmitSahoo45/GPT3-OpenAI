@@ -112,6 +112,10 @@
     .gpt3__header-content {
         margin: 0 0 3rem;
     }
+
+    .gpt3__header-image {
+        margin: auto;
+    }
 }
 
 @media screen and (max-width: 650px) {
@@ -155,5 +159,11 @@
     .gpt3__header-content__input button {
         font-size: 12px;
         line-height: 16px;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    .gpt3__header-image {
+        width: 300px
     }
 }
