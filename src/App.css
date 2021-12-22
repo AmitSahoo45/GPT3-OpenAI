@@ -14,11 +14,6 @@ a {
   text-decoration: none;
 }
 
-::selection {
-  background-color: #FF8A71;
-  color: #ffffff;
-}
-
 .gradient__bg {
   background: -moz-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
   background: -webkit-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
